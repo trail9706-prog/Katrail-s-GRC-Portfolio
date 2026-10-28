@@ -17,7 +17,7 @@ SanDwane's is a pharmaceutical company running on Microsoft 365, SharePoint and 
 ## Projects
 
 ### 1. Enterprise-Wide Cyber Incident Response Plan
-📄 [`SanDwane's-Cyber-Incident-Response-Plan.docx`](./SanDwane's Incident Response Plan.docx)
+📄 [`SanDwane's-Cyber-Incident-Response-Plan.docx`](./ SanDwane's Cyber Incident Response Plan.docx)
 
 **Problem:** After a small breach, SanDwane's realised it had no procedure for engaging senior managers and stakeholders during an enterprise-wide cyber crisis.
 

@@ -1,7 +1,7 @@
 # Katrail-s-GRC-Portfolio
-# GRC Case Study: Carmerek's (Pharmaceutical Company)
+# GRC Case Study: SanDwane's (Carmerek Enterprise)
 
-> **Training case study.** Carmerek's and Horizon Labs are fictional organisations used in a cybersecurity GRC course. No real company or client data is included.
+> **Training case study.** SanDwane's and SanDwane Labs are fictional organizations used in a cybersecurity GRC course. No real company or client data is included.
 
 **Author:** Katrail Harris
 **Focus areas:** Governance, Risk & Compliance · Incident Response · Third-Party Risk Management · Microsoft 365 / Azure security
@@ -10,16 +10,16 @@
 
 ## Scenario
 
-Carmerek's is a pharmaceutical company running on Microsoft 365, SharePoint and Azure. After a data breach and a suspected insider leak of sensitive medication data to the press, the company engaged me to strengthen its security program across three assignments.
+SanDwane's is a pharmaceutical company running on Microsoft 365, SharePoint and Azure. After a data breach and a suspected insider leak of sensitive medication data to the press, the company engaged me to strengthen its security program across three assignments.
 
 ---
 
 ## Projects
 
 ### 1. Enterprise-Wide Cyber Incident Response Plan
-📄 [`Carmereks-Cyber-Incident-Response-Plan.docx`](./TPRM_Horizon_Labs_Assessment_Carmereks.xlsx)
+📄 [`SanDwane's-Cyber-Incident-Response-Plan.docx`](./SanDwane's Incident Response Plan.docx)
 
-**Problem:** After a small breach, Carmerek's realised it had no procedure for engaging senior managers and stakeholders during an enterprise-wide cyber crisis.
+**Problem:** After a small breach, SanDwane's realised it had no procedure for engaging senior managers and stakeholders during an enterprise-wide cyber crisis.
 
 **What I did:** Adapted a NIST SP 800-61 based government template into a 21-page plan tailored to Carmerek's environment, including:
 - Four-level incident classification with pharma-specific impacts (patient safety, GxP systems, clinical data)
@@ -32,9 +32,9 @@ Carmerek's is a pharmaceutical company running on Microsoft 365, SharePoint and 
 - Appendices: situation update, incident log, resolution action plan, evidence register, critical assets, key contacts
 
 ### 2. Third-Party Risk Assessment: Horizon Labs (SaaS Supplier)
-📊 [`TPRM_Horizon_Labs_Assessment_Carmereks.xlsx`](./TPRM_Horizon_Labs_Assessment_Carmereks.xlsx)
+📊 [`TPRM_Carmerek_Labs_Assessment_Carmereks.xlsx`](./TPRM_Horizon_Labs_Assessment_Carmereks.xlsx)
 
-**Problem:** Horizon Labs provides a SaaS application that processes Carmerek's research intellectual property. Assess the supplier's security questionnaire and identify risks to escalate to senior management.
+**Problem:** Carmerek Labs provides a SaaS application that processes Carmerek's research intellectual property. Assess the supplier's security questionnaire and identify risks to escalate to senior management.
 
 **What I did:** Reviewed 15 questionnaire responses, rated each risk, and produced an executive risk summary.
 

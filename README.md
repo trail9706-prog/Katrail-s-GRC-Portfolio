@@ -17,7 +17,7 @@ Carmerek's is a pharmaceutical company running on Microsoft 365, SharePoint and 
 ## Projects
 
 ### 1. Enterprise-Wide Cyber Incident Response Plan
-📄 [`Carmereks-Cyber-Incident-Response-Plan.docx`](./Carmereks-Cyber-Incident-Response-Plan.docx)
+📄 [`Carmereks-Cyber-Incident-Response-Plan.docx`](./TPRM_Horizon_Labs_Assessment_Carmereks.xlsx)
 
 **Problem:** After a small breach, Carmerek's realised it had no procedure for engaging senior managers and stakeholders during an enterprise-wide cyber crisis.
 
